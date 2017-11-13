@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Ch–Ch–Ch-Ch–Ch–Ch–Ch–Ch–Changes"
+date:   2017-11-13 06:15:24 +0000
+categories: first tts blog post
+---
+
+I have the honor of receiving a Rockstar Scholarship from TTS and their partners at Extended Stay America and am very thankful for the opportunity that this provides. I am excited to be a student at their New Orleans location.
+  
+I am currently learning Front End Development in the fulltime Code Immersion course and will soon be enrolled in their Next Level Rails and JavaScript Application Development classes.  Five motivated and determined students accompany me in my cohort.  We are led by Ryan who is an excellent instructor.  He keeps us upbeat as he guides us through rigorous coding challenges.  I consider myself fortunate that I am taught by someone who not only has command of the subject matter but also knows how to teach.
+ 
+How did I get here? After a decade of growth as a helpdesk Information Technology Analyst I found myself affected by the steep job cuts in the oil industry that came with the drop in the price of oil.  I decided to change the direction of my career, and after exploring several paths, I found that I was most intrigued by the puzzles of Data Science and software development.
+
+One month ago, I was told of a scholarship opportunity, applied, and was elated when I received the good news.  Two weeks ago, I began my journey into software development and am looking forward to testing myself every day in this is challenging learning environment.  Though sometimes nervous, every day I push forward a little more and stretch my capabilities further.
+
+I will document my challenges and progress over the next few months via a blog.  You can find my updates at www.scaredcoderchimp.com.
